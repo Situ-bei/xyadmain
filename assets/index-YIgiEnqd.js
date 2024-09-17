@@ -1,1 +1,0 @@
-import{a as t,o as n,af as r,e as s,l as c,h as u,s as _}from"./index-DOHSIiiC.js";const m={__name:"index",setup(l){const o=t().meta;return n(()=>{r().then(({data:e})=>{console.log(e,"data")})}),(e,p)=>{const a=_;return s(),c(a,{route:u(o)},null,8,["route"])}}};export{m as default};
